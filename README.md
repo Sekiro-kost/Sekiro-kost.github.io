@@ -1,4 +1,2 @@
-
-# New version
-
+# plugins-docs
 
