@@ -4,13 +4,22 @@ title: Liste des plugins
 lang: fr_FR
 ---
 
-# Modbus
+# Airzone
 
-[<img width="77" src="{{site.market}}/filestore/market/plugin/images/modbus_icon.png">]({{site.baseurl}}/modbus/{{page.lang}})
+[<img width="77" src="{{site.market}}/filestore/market/plugin/images/airzone_icon.png">]({{site.docJeedom}}/airzone/{{page.lang}})
 
 Plugin Test
 
-- [Documentation]({{site.baseurl}}/modbus/{{page.lang}})
-- [Changelog]({{site.baseurl}}/modbus/{{page.lang}}/changelog)
+- [Documentation]({{site.docJeedom}}/airzone{{page.lang}})
+- [Changelog]({{site.docJeedom}}/airzone/{{page.lang}}/changelog)
+
+# Modbus
+
+[<img width="77" src="{{site.market}}/filestore/market/plugin/images/modbus_icon.png">]({{site.docJeedom}}/automation%20protocol/modbus/{{page.lang}})
+
+Plugin Test
+
+- [Documentation]({{site.docJeedom}}/automation%20protocol/modbus/{{page.lang}})
+- [Changelog]({{site.docJeedom}}/automation%20protocol/modbus/{{page.lang}}/changelog)
 
 
